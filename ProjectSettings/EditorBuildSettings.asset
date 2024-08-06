@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01.Scenes/Title.unity
+    guid: db3a9c393d879124e9809074f684233a
+  - enabled: 1
+    path: Assets/01.Scenes/PlayScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/01.Scenes/DeadDelay.unity
+    guid: 14777b0a708ef144abb51599c77e39e9
+  - enabled: 1
+    path: Assets/01.Scenes/ClearScene.unity
+    guid: c2c0bda14e496534db74ba68fb926e0f
+  m_configObjects: {}
